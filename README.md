@@ -4,8 +4,10 @@
 
 - 🧑‍🎓 Design a Home Page for Natural Farms using below 
 
-- 🥳 Header , Footer , Nav , Display 4 Products 
-
+- 🥳 Header , Footer , Nav , Display 4 Products
+  
+![Home NF](https://github.com/user-attachments/assets/babba053-1717-4bb9-9267-222a02cbb813)
+![Products NF](https://github.com/user-attachments/assets/1b573878-e787-4a99-ac7b-7843e2facd2a)
 
 - 🔥 Html5 Elements
 - 🔥 Html5 Semantics
